@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Full Stack Web Developer<br>I've mastered MERN Stack Web Development<br>I'm a DSA Enthusiast and a Passionate Programmer<br>I'm profound in Problem Solving
+I'm currently a Full Stack Web Developer<br>I've mastered MERN Stack Web Development<br>I'm a DSA Enthusiast and a Passionate Programmer<br>I'm profound in Problem Solving.
 
 
 ## 🌐 Socials:

@@ -4,7 +4,7 @@ I am a Full Stack Web Developer specializing in the MERN stack with a strong pas
 
 
 # 💡 About Me
-✔ MERN Stack Expert - Proficient in building scalable and efficient web applications.
+✔ MERN Stack Expert - Proficient in building scalable and efficient web applications. <br/>
 ✔ Passionate Programmer - Strong foundation in Data Structures & Algorithms (DSA) and problem-solving.
 ✔ Tech Enthusiast - Always eager to explore new technologies and frameworks.
 

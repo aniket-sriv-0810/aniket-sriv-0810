@@ -10,7 +10,7 @@ I am a Full Stack Web Developer specializing in the MERN stack with a strong pas
 
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniket_sriv_0810) <br/>
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniket_sriv_0810) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-srivastava-0141b22b8) 
 
 # 💻 Tech Stack:

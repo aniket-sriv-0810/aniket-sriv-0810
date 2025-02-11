@@ -2,7 +2,8 @@
 👋 Welcome to My GitHub!
 I am a Full Stack Web Developer specializing in the MERN stack with a strong passion for problem-solving and building high-performance web applications. I love tackling complex coding challenges and continuously expanding my skill set to stay at the forefront of modern web development.
 
-#💡 About Me
+
+# 💡 About Me
 ✔ MERN Stack Expert - Proficient in building scalable and efficient web applications.
 ✔ Passionate Programmer - Strong foundation in Data Structures & Algorithms (DSA) and problem-solving.
 ✔ Tech Enthusiast - Always eager to explore new technologies and frameworks.
